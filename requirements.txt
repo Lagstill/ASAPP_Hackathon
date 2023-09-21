@@ -2,5 +2,3 @@ fastapi[all]
 pydantic
 uvicorn
 pandas
-heapq
-pickle
